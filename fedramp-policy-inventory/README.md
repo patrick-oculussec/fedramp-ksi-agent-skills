@@ -74,3 +74,7 @@ For policy templates and KSI-CSX-SUM summaries, see [templates.md](templates.md)
 - For inventory automation patterns and policy templates, see [templates.md](templates.md)
 - [CISA Secure By Design](https://www.cisa.gov/securebydesign)
 - [ISO 27001 Asset Management](https://www.iso.org/standard/27001)
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

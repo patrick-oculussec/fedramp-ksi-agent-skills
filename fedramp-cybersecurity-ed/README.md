@@ -67,3 +67,7 @@ Generate documentation covering:
 ## Documentation Generation
 
 For training program templates and KSI-CSX-SUM summaries, see [templates.md](templates.md).
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

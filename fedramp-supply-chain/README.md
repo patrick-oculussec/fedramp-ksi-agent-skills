@@ -61,3 +61,7 @@ For KSI-CSX-SUM implementation summaries, see [patterns.md](patterns.md).
 - For SBOM generation patterns and scanning configurations, see [patterns.md](patterns.md)
 - [CISA SBOM Guidance](https://www.cisa.gov/sbom)
 - [NIST SP 800-161: Supply Chain Risk Management](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

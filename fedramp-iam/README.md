@@ -78,3 +78,7 @@ For KSI-CSX-SUM implementation summaries, see [patterns.md](patterns.md) for the
 - For detailed code patterns and IaC examples, see [patterns.md](patterns.md)
 - [NIST SP 800-63B Digital Identity Guidelines](https://pages.nist.gov/800-63-4/sp800-63b.html)
 - [CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model)
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

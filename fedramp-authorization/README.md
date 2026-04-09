@@ -105,3 +105,7 @@ For process document templates and KSI-CSX-SUM summaries, see [processes.md](pro
 - [NIST CMVP Validated Modules](https://csrc.nist.gov/projects/cryptographic-module-validation-program/validated-modules)
 - [FedRAMP Minimum Assessment Scope](https://fedramp.gov/docs/20x/minimum-assessment-scope)
 - [FedRAMP Using Cryptographic Modules](https://fedramp.gov/docs/20x/using-cryptographic-modules)
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

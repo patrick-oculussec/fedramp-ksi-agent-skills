@@ -62,3 +62,7 @@ For KSI-CSX-SUM implementation summaries, see [patterns.md](patterns.md).
 ## Additional Resources
 
 - For backup configuration patterns and recovery testing examples, see [patterns.md](patterns.md)
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

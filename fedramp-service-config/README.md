@@ -95,3 +95,7 @@ For KSI-CSX-SUM implementation summaries, see [patterns.md](patterns.md).
 - For detailed code patterns and configuration examples, see [patterns.md](patterns.md)
 - [NIST SP 800-52 Rev2: TLS Implementation Guidelines](https://csrc.nist.gov/publications/detail/sp/800-52/rev-2/final)
 - [FedRAMP Using Cryptographic Modules](https://fedramp.gov/docs/20x/using-cryptographic-modules)
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

@@ -108,3 +108,7 @@ These apply across ALL KSI themes:
 - For the complete KSI index with all IDs and descriptions, see [ksi-reference.md](ksi-reference.md)
 - [FedRAMP 20x KSI Documentation](https://www.fedramp.gov/docs/20x/key-security-indicators/)
 - [FedRAMP 20x Definitions](https://www.fedramp.gov/docs/20x/fedramp-definitions/)
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

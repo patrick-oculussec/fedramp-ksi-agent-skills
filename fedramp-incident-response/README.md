@@ -77,3 +77,7 @@ For after-action report templates and KSI-CSX-SUM summaries, see [patterns.md](p
 - For incident response templates and playbook patterns, see [patterns.md](patterns.md)
 - [FedRAMP Incident Communications Procedures](https://fedramp.gov/docs/20x/incident-communications-procedures)
 - [NIST SP 800-61 Rev2: Computer Security Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

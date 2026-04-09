@@ -116,3 +116,9 @@ Every instruction set supports generating the **KSI-CSX-SUM implementation summa
 
 - [FedRAMP 20x Key Security Indicators](https://www.fedramp.gov/docs/20x/key-security-indicators/)
 - [FedRAMP 20x Definitions](https://www.fedramp.gov/docs/20x/fedramp-definitions/)
+
+## License
+
+Copyright (c) 2026 Patrick Clark / Oculus Security, LLC
+
+Licensed under the [MIT License](LICENSE). You are free to use, modify, and redistribute this work for any purpose, provided the copyright notice is preserved. This software is provided "as is" with no warranty of any kind. See the [LICENSE](LICENSE) file for full terms.

@@ -98,3 +98,7 @@ For KSI-CSX-SUM implementation summaries, see [patterns.md](patterns.md) for CNA
 ## Additional Resources
 
 - For detailed IaC patterns and examples, see [patterns.md](patterns.md)
+
+---
+
+*Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. [MIT License](../LICENSE).*

@@ -44,3 +44,7 @@ These apply to ALL code in FedRAMP scope regardless of topic:
 ## Complete KSI Reference
 
 For the full list of all ~60 KSI IDs and their one-line descriptions, see [fedramp-20x-compliance/ksi-reference.md](fedramp-20x-compliance/ksi-reference.md).
+
+---
+
+Copyright (c) 2026 Patrick Clark / Oculus Security, LLC. MIT License. See [LICENSE](LICENSE).
