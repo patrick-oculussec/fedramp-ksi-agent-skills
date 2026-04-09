@@ -21,7 +21,7 @@ All instructions are cloud-agnostic and express requirements as general principl
 Copy the directories you need into your project's `.cursor/rules/` or `.cursor/skills/`:
 
 ```bash
-git clone <repo-url> fedramp-skills
+git clone https://github.com/patrick-oculussec/fedramp-ksi-agent-skills.git fedramp-skills
 
 # All skills
 cp -r fedramp-skills/fedramp-*/ /path/to/your-project/.cursor/skills/
